@@ -31,7 +31,7 @@ const Api_data=[
     {
         id:5,
         heading:'Bahubali',
-        image:'https://www.deccanherald.com/sites/dh/files/articleimages/2022/03/26/bahubali-characters-1-1094769-1648237997.jpg',
+        image:'https://wallpaperaccess.com/full/2108468.jpg',
         discription:"The film's story was written by Rajamouli's father V. Vijayendra Prasad, who randomly told him a story about Sivagami, a woman who carries a baby in her hand while crossing a river, and a few years later about Kattappa, which intrigued Rajamouli.",
         category:'bollywood'
     },
