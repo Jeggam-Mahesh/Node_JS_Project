@@ -1,5 +1,5 @@
 const data=require('../data')
-const home=(req,res)=>{
+const home=(req,res)=>{ 
     res.send(data)
 }
 const bollywood=(req,res)=>{
